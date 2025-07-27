@@ -1,1 +1,2 @@
 # FakeJobPrediction
+This project focuses on detecting fake job postings using machine learning. It includes data preprocessing, feature extraction (e.g., company profile, requirements, benefits), and training classifiers like Logistic Regression, Random Forest, and SVM. The system flags suspicious listings and improves reliability through model evaluation. A Telegram bot and email alert system are integrated to notify users of verified jobs. The goal is to reduce employment scams and recommend genuine opportunities.
